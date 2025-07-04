@@ -22,3 +22,6 @@ Amazon case study.xlsx – Cleaned data, analysis tasks, and dashboard
 Amazon_Case_Study_Report.docx – Written insights and recommendations
 
 Screenshots of visuals (bar charts, top products, price drop comparisons)
+
+
+google drive link:https://drive.google.com/drive/folders/1iU9ciPwXP9fHaP8DQbTCcb555tPSE0Gi
